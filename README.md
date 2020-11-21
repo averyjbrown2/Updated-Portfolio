@@ -7,3 +7,10 @@ This project is an updated version of a previous responsive webpage. This respon
 
 
 ## Images:
+![deployed site](./Assets/Image7.png)
+
+![deployed site](./Assets/Image8.png)
+
+![deployed site](./Assets/Image9.png)
+
+
