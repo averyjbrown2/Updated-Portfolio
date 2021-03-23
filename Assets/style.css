@@ -1,6 +1,7 @@
 
 body {
-  background-image: url('https://s2.best-wallpaper.net/wallpaper/1366x768/1111/Beautiful-yellow-tulips-flowers_1366x768.jpg');
+  background-image: url("https://static-cse.canva.com/blob/142356/removing-background-images_Unsplash.bad043c2.jpeg");
+  /* background-image: url('https://s2.best-wallpaper.net/wallpaper/1366x768/1111/Beautiful-yellow-tulips-flowers_1366x768.jpg'); */
   background-repeat: no-repeat;
   background-size: cover;
   
@@ -20,4 +21,10 @@ body, html {
 a {
   color: black;
   
+}
+.navigation {
+  background-color: rgb(79, 163, 136);
+}
+.font {
+  color:;
 }
