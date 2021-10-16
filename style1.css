@@ -1,0 +1,22 @@
+body {
+    font-family: 'Andada Pro', serif;
+}
+* {
+    box-sizing: border-box;
+
+}
+
+img {
+    height: 300px;
+    float:left;
+
+}
+.bio {
+    float:left;
+}
+.name {
+    background-color: rgb(199, 161, 199);
+    padding: 5px;
+    border-radius:0.5em;
+
+}
