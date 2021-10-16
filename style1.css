@@ -15,7 +15,8 @@ img {
 
 }
 .bio {
-    float: left;
+    /* float: left; */
+    margin-left: 10px;
 }
 .name {
     background-color: rgb(199, 161, 199);
